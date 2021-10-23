@@ -9,3 +9,7 @@ print('"Yes," they said.') # double or single quotes inside any one of the other
 print("\"Yes,\" they said.") # escape character
 
 print('"Isn\'t," they said.') # double quotes are automatically escaped, single quotes 
+
+print('''I dont know 
+            what this 
+does''')                   #If we use triple quotes, it will print the way it is given in multiple lines
